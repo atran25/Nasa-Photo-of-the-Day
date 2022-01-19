@@ -1,3 +1,13 @@
+# Web Application Information:
+
+Live Demo: https://determined-yonath-ee771d.netlify.app/
+For this application, I decided to add two extra features:
+
+1. Save likes if user leaves or reloads the page <== Accomplished with localStorage
+2. Add a Loading state while we wait for NASA's API to return data
+
+Note: This application only automatically calls the api once in the beginning. It stores that in the localStorage and retrieves it from localStorage on reload. This is to allow for checking of the like and unlike button state on reload. Use the "New Images" button to call the api and get new images.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
