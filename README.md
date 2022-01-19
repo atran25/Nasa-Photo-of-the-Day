@@ -1,6 +1,6 @@
 # Web Application Information:
 
-Live Demo: https://determined-yonath-ee771d.netlify.app/
+Live Demo: https://determined-yonath-ee771d.netlify.app/  
 For this application, I decided to add two extra features:
 
 1. Save likes if user leaves or reloads the page <== Accomplished with localStorage
